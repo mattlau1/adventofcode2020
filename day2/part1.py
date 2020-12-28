@@ -20,14 +20,14 @@ def sol():
         nums = re.findall(r"\d+", line)
         letters = re.search(r'\s(\w):', line)
         password = re.search(r':\s(\w+)$', line)
-        print(line, end='')
-        print(f'lower bound is {nums[0]}')
-        print(f'upper bound is {nums[1]}')
-        print(f"letter is {letters[1]}")
-        print(f"pass is {password[1]}")
+#         print(line, end='')
+#         print(f'lower bound is {nums[0]}')
+#         print(f'upper bound is {nums[1]}')
+#         print(f"letter is {letters[1]}")
+#         print(f"pass is {password[1]}")
         
         letter_count = password[1].count(letters[1])
-        print(f'letter count is {letter_count}')
+#         print(f'letter count is {letter_count}')
 
         if letter_count >= int(nums[0]) and letter_count <= int(nums[1]):
             valid_count += 1
