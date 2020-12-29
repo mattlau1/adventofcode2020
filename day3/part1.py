@@ -1,3 +1,10 @@
+'''
+--- Day 3: Toboggan Trajectory ---
+From your starting position at the top-left, 
+check the position that is right 3 and down 1. 
+Then, check the position that is right 3 and down 1 
+from there, and so on until you go past the bottom of the map.
+'''
 
 def sol(slope_x):
     f = open('input.txt', 'r')
