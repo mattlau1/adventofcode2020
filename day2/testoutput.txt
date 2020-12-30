@@ -1,0 +1,2999 @@
+1-4 j: jjjqzmgbjwpj
+lower bound is 1
+upper bound is 4
+2-4 w: sckwwf
+lower bound is 2
+upper bound is 4
+1-13 b: bcbbbbbbbbbbhbb
+lower bound is 1
+upper bound is 13
+10-11 x: xjxxxxxxxxzxxx
+lower bound is 10
+upper bound is 11
+13-14 d: dddddddddddddd
+lower bound is 13
+upper bound is 14
+16-18 s: ksttbjsstpnsvtcjnx
+lower bound is 16
+upper bound is 18
+3-8 k: gkkqkbpvkrx
+lower bound is 3
+upper bound is 8
+3-7 c: mccnjgcxkfkp
+lower bound is 3
+upper bound is 7
+3-7 b: hgbqzrjvwqbfc
+lower bound is 3
+upper bound is 7
+8-14 r: rrrrrrrfrrrtrrrr
+lower bound is 8
+upper bound is 14
+5-6 v: vvvvwpvvv
+lower bound is 5
+upper bound is 6
+4-5 b: zfkpb
+lower bound is 4
+upper bound is 5
+12-13 n: nwnwdplnhfhlnnnntfn
+lower bound is 12
+upper bound is 13
+9-14 z: sxzjzfrzztczlw
+lower bound is 9
+upper bound is 14
+1-14 n: vnnnnnnnnnnnnnnnnnnn
+lower bound is 1
+upper bound is 14
+4-6 b: bbbsbb
+lower bound is 4
+upper bound is 6
+2-7 x: xxsjxpxx
+lower bound is 2
+upper bound is 7
+6-8 z: wzfqzzzzn
+lower bound is 6
+upper bound is 8
+2-17 b: cbbmwqmjxhkvjnfbx
+lower bound is 2
+upper bound is 17
+3-9 h: hhhhhghhshh
+lower bound is 3
+upper bound is 9
+3-13 m: mmzmmmmmmmmmxmmmb
+lower bound is 3
+upper bound is 13
+2-4 v: xnxv
+lower bound is 2
+upper bound is 4
+3-4 s: tsxsns
+lower bound is 3
+upper bound is 4
+1-11 m: mmmmzvmmwmmmmmmmmmm
+lower bound is 1
+upper bound is 11
+3-6 h: hhhhhkhhhh
+lower bound is 3
+upper bound is 6
+9-10 n: nnnnnznstln
+lower bound is 9
+upper bound is 10
+9-10 s: svrssgssstss
+lower bound is 9
+upper bound is 10
+3-4 j: jjvd
+lower bound is 3
+upper bound is 4
+1-3 n: nnnnn
+lower bound is 1
+upper bound is 3
+3-5 w: gwhdxvpf
+lower bound is 3
+upper bound is 5
+3-10 c: bxldcllfmxkhzm
+lower bound is 3
+upper bound is 10
+7-9 v: vvvnjbvvq
+lower bound is 7
+upper bound is 9
+1-4 r: brrjbrrrr
+lower bound is 1
+upper bound is 4
+3-4 l: llvlf
+lower bound is 3
+upper bound is 4
+16-17 p: pldpppppppppppqpfpp
+lower bound is 16
+upper bound is 17
+2-3 k: gbklks
+lower bound is 2
+upper bound is 3
+11-13 g: gggggggggggwfzg
+lower bound is 11
+upper bound is 13
+1-5 n: tnnnkn
+lower bound is 1
+upper bound is 5
+10-13 k: rkzkkkkczprzv
+lower bound is 10
+upper bound is 13
+10-13 p: ppppxppppvppnppp
+lower bound is 10
+upper bound is 13
+2-4 d: zjvf
+lower bound is 2
+upper bound is 4
+2-3 h: hhpkstbgpb
+lower bound is 2
+upper bound is 3
+10-15 q: qqqqqqqqqqqqqqqqq
+lower bound is 10
+upper bound is 15
+7-8 w: wwvwwwjw
+lower bound is 7
+upper bound is 8
+12-17 p: mfjzpnvptpqgppptc
+lower bound is 12
+upper bound is 17
+4-6 q: qkqqqs
+lower bound is 4
+upper bound is 6
+10-11 p: vkbftpcpptp
+lower bound is 10
+upper bound is 11
+6-8 k: kkqkknkkk
+lower bound is 6
+upper bound is 8
+8-9 j: jjrjdcjrj
+lower bound is 8
+upper bound is 9
+14-16 f: clqwfdsfbjngfkwf
+lower bound is 14
+upper bound is 16
+14-18 v: vzvvvsvvvvklvjcvvvv
+lower bound is 14
+upper bound is 18
+9-12 t: tttttttttwttttt
+lower bound is 9
+upper bound is 12
+1-4 q: tqqqq
+lower bound is 1
+upper bound is 4
+7-16 r: rrrrrrfrrrtrrrrrrrr
+lower bound is 7
+upper bound is 16
+7-9 c: tcfqhcwdfd
+lower bound is 7
+upper bound is 9
+3-4 x: kpxx
+lower bound is 3
+upper bound is 4
+7-9 d: dbdxdddnnddndkdrzd
+lower bound is 7
+upper bound is 9
+2-4 h: gshhhhhhhhhhhhhhhhhh
+lower bound is 2
+upper bound is 4
+11-12 x: xxsxxxxxxrxtxx
+lower bound is 11
+upper bound is 12
+12-16 t: tttttttttttttttpttt
+lower bound is 12
+upper bound is 16
+2-8 r: kzttpqxrcp
+lower bound is 2
+upper bound is 8
+2-3 m: mmzmm
+lower bound is 2
+upper bound is 3
+9-10 c: ccfcccccswc
+lower bound is 9
+upper bound is 10
+6-7 h: hhhhhhhhhhhh
+lower bound is 6
+upper bound is 7
+5-6 z: zzzzwzmhfc
+lower bound is 5
+upper bound is 6
+1-4 h: qhwt
+lower bound is 1
+upper bound is 4
+5-13 w: cwkwjrvjkwvlwrmv
+lower bound is 5
+upper bound is 13
+2-10 z: tmnrtwqzmznhrqtgqnv
+lower bound is 2
+upper bound is 10
+9-13 j: qwknzzkzxfrjs
+lower bound is 9
+upper bound is 13
+18-19 v: zlwnvtxlvbwwvjlltqv
+lower bound is 18
+upper bound is 19
+5-11 d: dxgksqbqrjdb
+lower bound is 5
+upper bound is 11
+3-7 q: qqzrrqpqdqqqqqqqzqqq
+lower bound is 3
+upper bound is 7
+1-4 g: bczgbbsxgg
+lower bound is 1
+upper bound is 4
+12-13 d: cxcpddldkpndd
+lower bound is 12
+upper bound is 13
+4-13 r: rgrrrhmzrrvwrrr
+lower bound is 4
+upper bound is 13
+15-18 d: dddddxzdnddtpddmddd
+lower bound is 15
+upper bound is 18
+8-9 z: zzfgmfnfh
+lower bound is 8
+upper bound is 9
+3-4 l: llmll
+lower bound is 3
+upper bound is 4
+5-6 w: lmwmwk
+lower bound is 5
+upper bound is 6
+3-11 j: jjjjjjjjjjjj
+lower bound is 3
+upper bound is 11
+11-14 n: ntnnnnnnnnnnnr
+lower bound is 11
+upper bound is 14
+14-15 h: bhhhhhhhhhhhhhhhhhv
+lower bound is 14
+upper bound is 15
+4-5 h: hhhlhthhhhhnhhh
+lower bound is 4
+upper bound is 5
+11-14 p: txphnnxwzpkpmt
+lower bound is 11
+upper bound is 14
+2-8 c: ctwccpccccbtctckt
+lower bound is 2
+upper bound is 8
+1-3 z: wzzzz
+lower bound is 1
+upper bound is 3
+8-13 s: ssssssssjsssm
+lower bound is 8
+upper bound is 13
+8-9 v: cvvsxvvxvhvnvvk
+lower bound is 8
+upper bound is 9
+12-13 p: xpcjdcpflpvpschz
+lower bound is 12
+upper bound is 13
+10-15 j: jjpjjtjjjjjjjjvjzcj
+lower bound is 10
+upper bound is 15
+5-8 s: sssssssqsssls
+lower bound is 5
+upper bound is 8
+3-4 s: fklsnsp
+lower bound is 3
+upper bound is 4
+4-6 r: rhbrrzrrmsmwm
+lower bound is 4
+upper bound is 6
+2-7 n: nhnnnnnn
+lower bound is 2
+upper bound is 7
+8-10 h: hhhhhfhhlh
+lower bound is 8
+upper bound is 10
+2-3 p: hgpfqpvq
+lower bound is 2
+upper bound is 3
+10-18 m: mmmmmmmmmmmmmmmmmmm
+lower bound is 10
+upper bound is 18
+7-9 r: rsrlrrrhwrbcrr
+lower bound is 7
+upper bound is 9
+11-12 h: zbhhjpmhjxwh
+lower bound is 11
+upper bound is 12
+2-4 z: rzdgz
+lower bound is 2
+upper bound is 4
+11-17 w: gbdwctwwcjwjwwwkkp
+lower bound is 11
+upper bound is 17
+2-9 w: vxrrmwcxk
+lower bound is 2
+upper bound is 9
+4-5 t: ttttp
+lower bound is 4
+upper bound is 5
+15-16 s: txfcskwmjltzlrjh
+lower bound is 15
+upper bound is 16
+6-15 d: dddddddddddddddd
+lower bound is 6
+upper bound is 15
+6-15 w: nnlcwwqwwbgwwsw
+lower bound is 6
+upper bound is 15
+9-11 n: kznfnnqnvndnn
+lower bound is 9
+upper bound is 11
+3-4 x: xxvm
+lower bound is 3
+upper bound is 4
+5-7 c: cccvpjc
+lower bound is 5
+upper bound is 7
+3-4 t: tttbt
+lower bound is 3
+upper bound is 4
+2-12 s: zshlpkzfqrss
+lower bound is 2
+upper bound is 12
+5-8 g: kgvcgzxg
+lower bound is 5
+upper bound is 8
+6-8 z: zkzfzfjz
+lower bound is 6
+upper bound is 8
+5-9 q: vqqqqqqqqnq
+lower bound is 5
+upper bound is 9
+3-4 j: jjws
+lower bound is 3
+upper bound is 4
+9-10 g: gggcgrwldzlggvzgcg
+lower bound is 9
+upper bound is 10
+7-10 s: pssqsgsswmwmsmqcx
+lower bound is 7
+upper bound is 10
+10-12 m: mmmmmmmmmmmlm
+lower bound is 10
+upper bound is 12
+4-9 z: fzkzrxzcj
+lower bound is 4
+upper bound is 9
+8-10 k: kkkkdkkkkkk
+lower bound is 8
+upper bound is 10
+1-6 k: kkqktfjkkk
+lower bound is 1
+upper bound is 6
+7-11 t: tztbttxxtnqbp
+lower bound is 7
+upper bound is 11
+4-10 w: pwcwgbkwjgr
+lower bound is 4
+upper bound is 10
+10-13 t: bztgttttwxqdjttht
+lower bound is 10
+upper bound is 13
+3-5 f: llzff
+lower bound is 3
+upper bound is 5
+13-14 j: fjwjjjdjjjjjmt
+lower bound is 13
+upper bound is 14
+6-7 g: mgggxggr
+lower bound is 6
+upper bound is 7
+5-13 l: fsjltvwgqkslltgldjql
+lower bound is 5
+upper bound is 13
+4-8 c: cpcgcczg
+lower bound is 4
+upper bound is 8
+6-7 n: nnnnnbnn
+lower bound is 6
+upper bound is 7
+10-17 s: smdvssstzzsxdkfsk
+lower bound is 10
+upper bound is 17
+6-8 p: tplpppfq
+lower bound is 6
+upper bound is 8
+11-12 h: dtkhttlthmhl
+lower bound is 11
+upper bound is 12
+8-11 q: qqqqqqqqqqrqqqqqqvqq
+lower bound is 8
+upper bound is 11
+11-18 b: bnbcblznbbqkfbnqvb
+lower bound is 11
+upper bound is 18
+14-16 p: vlkcppcpbrjxchwpgtb
+lower bound is 14
+upper bound is 16
+1-3 r: rxrjnrhrn
+lower bound is 1
+upper bound is 3
+15-19 x: xrsvsxmjxxxxxxbfztx
+lower bound is 15
+upper bound is 19
+1-4 q: zqqq
+lower bound is 1
+upper bound is 4
+12-15 c: cffczfcmzscdpmcx
+lower bound is 12
+upper bound is 15
+1-8 b: jbbbbbbbbbbbbbtbb
+lower bound is 1
+upper bound is 8
+2-4 q: dvdqwwq
+lower bound is 2
+upper bound is 4
+2-4 h: jlhhnfqz
+lower bound is 2
+upper bound is 4
+1-3 r: lrwqrwxsqmzr
+lower bound is 1
+upper bound is 3
+4-5 z: gfzzhkgzpsztzfk
+lower bound is 4
+upper bound is 5
+13-14 m: mmmmmmmmmmmmjm
+lower bound is 13
+upper bound is 14
+6-8 n: nnnnnnwnnnm
+lower bound is 6
+upper bound is 8
+10-11 h: hrhchrqdhxhhhhhhr
+lower bound is 10
+upper bound is 11
+9-10 f: fbffflffdf
+lower bound is 9
+upper bound is 10
+7-8 v: vvvvvnvv
+lower bound is 7
+upper bound is 8
+5-13 t: tftttgtfvtbqttwtdmtt
+lower bound is 5
+upper bound is 13
+1-9 v: lvvvvvvvnvv
+lower bound is 1
+upper bound is 9
+5-7 j: jjjxrtjj
+lower bound is 5
+upper bound is 7
+11-13 s: smsssjsssspsms
+lower bound is 11
+upper bound is 13
+7-9 r: mwmrqrprrhvhrtpbfpcb
+lower bound is 7
+upper bound is 9
+5-8 s: hwgnssxp
+lower bound is 5
+upper bound is 8
+6-8 d: ncftqndxmrh
+lower bound is 6
+upper bound is 8
+9-14 g: gggggwglggdgglgmggkg
+lower bound is 9
+upper bound is 14
+1-8 w: vwvwwwkwww
+lower bound is 1
+upper bound is 8
+1-5 z: zzzzczzzzzzzzzw
+lower bound is 1
+upper bound is 5
+5-13 p: pppppppjsvppwppxpp
+lower bound is 5
+upper bound is 13
+6-15 v: csvkhzlhvsqvjph
+lower bound is 6
+upper bound is 15
+2-6 h: fbdschrjnch
+lower bound is 2
+upper bound is 6
+6-8 q: wqtfphkq
+lower bound is 6
+upper bound is 8
+2-9 b: nvnmdbblk
+lower bound is 2
+upper bound is 9
+4-5 g: ggggg
+lower bound is 4
+upper bound is 5
+3-4 v: vbhd
+lower bound is 3
+upper bound is 4
+2-4 v: vvmqvv
+lower bound is 2
+upper bound is 4
+10-13 c: xqkbrfcpqrmxclxkngfx
+lower bound is 10
+upper bound is 13
+7-8 z: hzzzzprz
+lower bound is 7
+upper bound is 8
+8-9 m: mmmmmmmnmmm
+lower bound is 8
+upper bound is 9
+8-9 n: nnxnnngnfgnz
+lower bound is 8
+upper bound is 9
+2-4 t: rztwt
+lower bound is 2
+upper bound is 4
+16-17 w: bswzwwqkcqwrmwdwt
+lower bound is 16
+upper bound is 17
+11-16 s: sssssssqsssssssxsss
+lower bound is 11
+upper bound is 16
+8-11 d: ddddddddddgd
+lower bound is 8
+upper bound is 11
+16-18 s: svssssssssssssssss
+lower bound is 16
+upper bound is 18
+1-2 c: gccclxklrcqv
+lower bound is 1
+upper bound is 2
+2-7 l: gbwllllflkll
+lower bound is 2
+upper bound is 7
+1-9 h: hqnhhhhhbhhhhhhhp
+lower bound is 1
+upper bound is 9
+14-15 p: lmdpprlcbrppmpp
+lower bound is 14
+upper bound is 15
+1-8 n: nrnnnnnnnnnnkf
+lower bound is 1
+upper bound is 8
+15-16 q: hpqrjqwjqxntfxqcp
+lower bound is 15
+upper bound is 16
+1-7 h: hhffnzfwlqtfhh
+lower bound is 1
+upper bound is 7
+1-5 k: znxddgkkfvrkkgrgk
+lower bound is 1
+upper bound is 5
+2-5 n: ntnnpnj
+lower bound is 2
+upper bound is 5
+17-19 x: fbfrxxctrnbshqwpxpx
+lower bound is 17
+upper bound is 19
+6-7 z: bzzpfzl
+lower bound is 6
+upper bound is 7
+9-13 n: tnxbnnnnvmnnnntck
+lower bound is 9
+upper bound is 13
+9-12 v: vvvbzgzvvcqvzv
+lower bound is 9
+upper bound is 12
+5-7 l: lcrplmwl
+lower bound is 5
+upper bound is 7
+6-13 k: lkkkdkgzwllmkfkk
+lower bound is 6
+upper bound is 13
+3-9 f: qpfvffdgp
+lower bound is 3
+upper bound is 9
+2-4 t: jtwj
+lower bound is 2
+upper bound is 4
+5-6 q: qqgqqqz
+lower bound is 5
+upper bound is 6
+1-2 f: wffgprmf
+lower bound is 1
+upper bound is 2
+8-17 m: zmmmmmdmmmmmmmmmqmv
+lower bound is 8
+upper bound is 17
+1-13 m: vmmmmmmmmmsmmmm
+lower bound is 1
+upper bound is 13
+1-4 j: jjjjjj
+lower bound is 1
+upper bound is 4
+1-7 n: vnnnnnnn
+lower bound is 1
+upper bound is 7
+3-7 s: snssssqsssr
+lower bound is 3
+upper bound is 7
+4-6 b: bbbpbbbbbb
+lower bound is 4
+upper bound is 6
+1-4 q: jqqqqqq
+lower bound is 1
+upper bound is 4
+4-7 z: zzzzzzhz
+lower bound is 4
+upper bound is 7
+10-12 h: hhhdchhdhhjphhfh
+lower bound is 10
+upper bound is 12
+14-20 c: hcscjxwvrwmfgjcrcgrs
+lower bound is 14
+upper bound is 20
+7-8 b: bbbbbbbjbbbbbb
+lower bound is 7
+upper bound is 8
+11-17 w: tjwhcpvhdzkpznqzwxl
+lower bound is 11
+upper bound is 17
+4-5 n: prnlncs
+lower bound is 4
+upper bound is 5
+4-11 r: rxzqfqwwkld
+lower bound is 4
+upper bound is 11
+9-12 z: zltzzjjrtvcpwhzd
+lower bound is 9
+upper bound is 12
+1-4 m: rhjmzvkmj
+lower bound is 1
+upper bound is 4
+3-4 b: blxjbb
+lower bound is 3
+upper bound is 4
+10-11 h: skhhqqhcnhmthq
+lower bound is 10
+upper bound is 11
+10-11 t: xtrtvwthftr
+lower bound is 10
+upper bound is 11
+2-3 m: mmqczmx
+lower bound is 2
+upper bound is 3
+2-4 d: dqddd
+lower bound is 2
+upper bound is 4
+1-4 s: stls
+lower bound is 1
+upper bound is 4
+4-5 b: bbvqx
+lower bound is 4
+upper bound is 5
+15-17 t: hvfnwljtgvtmtmgttt
+lower bound is 15
+upper bound is 17
+6-12 f: fpfgptkmfhjf
+lower bound is 6
+upper bound is 12
+16-17 c: ccccccrccccccccccvc
+lower bound is 16
+upper bound is 17
+9-11 f: ffffffffvff
+lower bound is 9
+upper bound is 11
+1-6 g: gggggx
+lower bound is 1
+upper bound is 6
+3-7 n: xnnngjhnnn
+lower bound is 3
+upper bound is 7
+1-9 b: bnjhbtwhbbdtbx
+lower bound is 1
+upper bound is 9
+4-14 q: tnspfdftfhqngv
+lower bound is 4
+upper bound is 14
+4-12 h: htrhtrsfqhzhm
+lower bound is 4
+upper bound is 12
+3-11 w: wwwwwwwwwpwmwwm
+lower bound is 3
+upper bound is 11
+8-9 w: wzwxmwwdw
+lower bound is 8
+upper bound is 9
+6-10 b: djbnwblbqzbbbn
+lower bound is 6
+upper bound is 10
+4-10 c: bndnxjrnqztcxvlt
+lower bound is 4
+upper bound is 10
+1-7 j: jjdgdjz
+lower bound is 1
+upper bound is 7
+7-12 d: ddvddcddddxzdddn
+lower bound is 7
+upper bound is 12
+12-17 z: zzzzzzzzzfdzzzzzl
+lower bound is 12
+upper bound is 17
+5-6 r: rrrrrnrrrrqrrrrr
+lower bound is 5
+upper bound is 6
+10-13 x: xzlxzkjrbtvpzh
+lower bound is 10
+upper bound is 13
+6-8 b: bbbbbbbbbvb
+lower bound is 6
+upper bound is 8
+8-10 q: nqqzqznqqqd
+lower bound is 8
+upper bound is 10
+6-18 p: dspgqtpmhdxpdpchpv
+lower bound is 6
+upper bound is 18
+2-5 j: jjjjbj
+lower bound is 2
+upper bound is 5
+5-16 n: nnnnqnnnnnnnnnnnn
+lower bound is 5
+upper bound is 16
+2-8 s: fgssgpsbssssbs
+lower bound is 2
+upper bound is 8
+5-6 z: zzlmzvdq
+lower bound is 5
+upper bound is 6
+13-16 t: ttttttttttttbttvt
+lower bound is 13
+upper bound is 16
+4-18 k: kkkzkzkkkkfkkkkkkjk
+lower bound is 4
+upper bound is 18
+8-9 w: wwpwwqxwwnwpvcw
+lower bound is 8
+upper bound is 9
+1-7 x: xxxxxxwx
+lower bound is 1
+upper bound is 7
+5-6 v: htvvbn
+lower bound is 5
+upper bound is 6
+2-4 c: bccqqp
+lower bound is 2
+upper bound is 4
+14-17 v: vvvvvvvvvvvvvvvvs
+lower bound is 14
+upper bound is 17
+10-11 j: tjjjjjjjjjjjjj
+lower bound is 10
+upper bound is 11
+9-11 j: pjjxbjcfjhvmlvpfdn
+lower bound is 9
+upper bound is 11
+5-7 v: dvrbrjvmpvhzgpzvvv
+lower bound is 5
+upper bound is 7
+2-6 m: mqmmtm
+lower bound is 2
+upper bound is 6
+6-9 t: tntttlttttttt
+lower bound is 6
+upper bound is 9
+3-6 s: tsnrmqssq
+lower bound is 3
+upper bound is 6
+7-10 l: llllllhflvnl
+lower bound is 7
+upper bound is 10
+8-12 k: kkkkkkkhkkkkkkk
+lower bound is 8
+upper bound is 12
+1-2 k: kckkkvjkkc
+lower bound is 1
+upper bound is 2
+8-12 x: sxxxxxxdxxnxgxxxx
+lower bound is 8
+upper bound is 12
+15-18 z: zzzzzzzzzzbzzzzzzz
+lower bound is 15
+upper bound is 18
+3-7 j: rjjjjjq
+lower bound is 3
+upper bound is 7
+13-14 k: kkkkkkklkkkkqkk
+lower bound is 13
+upper bound is 14
+4-5 h: hhhqh
+lower bound is 4
+upper bound is 5
+9-11 x: xxxxxxxphbxlrxxsxts
+lower bound is 9
+upper bound is 11
+4-11 x: gjlmmvxdhfxvjhxbq
+lower bound is 4
+upper bound is 11
+6-12 x: xgzcqxjmpvzm
+lower bound is 6
+upper bound is 12
+8-9 s: snssssksssss
+lower bound is 8
+upper bound is 9
+12-17 s: gnswjqxkmrsssnsbldb
+lower bound is 12
+upper bound is 17
+7-8 g: ggzzgfgl
+lower bound is 7
+upper bound is 8
+10-11 f: nppdzqkfjfbjhdkx
+lower bound is 10
+upper bound is 11
+5-7 f: brcmfsk
+lower bound is 5
+upper bound is 7
+7-11 t: ttltfthtttttjtt
+lower bound is 7
+upper bound is 11
+3-4 f: zlffkdcnsvm
+lower bound is 3
+upper bound is 4
+2-4 f: ggfr
+lower bound is 2
+upper bound is 4
+13-16 x: xxxxxxxxxxxxgxxkx
+lower bound is 13
+upper bound is 16
+9-10 p: jxtlzqpptpxpzjxh
+lower bound is 9
+upper bound is 10
+1-6 k: gjkzkkkkk
+lower bound is 1
+upper bound is 6
+5-6 t: tttvgtjtt
+lower bound is 5
+upper bound is 6
+1-15 d: vddjdddvddddddddddd
+lower bound is 1
+upper bound is 15
+8-13 c: cccccccfcccccccccccc
+lower bound is 8
+upper bound is 13
+1-6 x: kxxxxpxxx
+lower bound is 1
+upper bound is 6
+4-10 m: mmmjmzlcmmmmmmmmmjm
+lower bound is 4
+upper bound is 10
+1-2 k: ksbmkdvwk
+lower bound is 1
+upper bound is 2
+1-2 x: dxxxh
+lower bound is 1
+upper bound is 2
+4-10 t: zvnvsfvwctrlvs
+lower bound is 4
+upper bound is 10
+5-10 b: bbrqbbpbnb
+lower bound is 5
+upper bound is 10
+4-5 n: nnmknznn
+lower bound is 4
+upper bound is 5
+5-9 b: bnchbmbbbwbfp
+lower bound is 5
+upper bound is 9
+6-8 j: jjjjjcjjjjj
+lower bound is 6
+upper bound is 8
+4-6 k: kwkbkkkk
+lower bound is 4
+upper bound is 6
+5-7 m: mmmtmzhm
+lower bound is 5
+upper bound is 7
+12-15 z: zzzzzzzzzzzzzzj
+lower bound is 12
+upper bound is 15
+11-14 t: lqstpfwckgtrpt
+lower bound is 11
+upper bound is 14
+11-14 z: wfzzzzzzzzvzzz
+lower bound is 11
+upper bound is 14
+4-14 n: nnnbcnnnnnnnnnnnn
+lower bound is 4
+upper bound is 14
+18-19 q: qvkmtqqqqqkqbqqqqgqd
+lower bound is 18
+upper bound is 19
+3-4 m: mmmrkmmmsmmmvzmzmrmm
+lower bound is 3
+upper bound is 4
+4-5 m: hcgmm
+lower bound is 4
+upper bound is 5
+2-4 v: vmfc
+lower bound is 2
+upper bound is 4
+8-11 m: mmmmmmmmmmvmm
+lower bound is 8
+upper bound is 11
+1-7 f: fftffqhff
+lower bound is 1
+upper bound is 7
+14-15 j: jjjjjjmnjjjhjhjzdjj
+lower bound is 14
+upper bound is 15
+16-17 d: ddddwdddddddddrdtnd
+lower bound is 16
+upper bound is 17
+5-11 d: ddddcdtrddqddd
+lower bound is 5
+upper bound is 11
+7-11 m: xfhmlmkmmpmm
+lower bound is 7
+upper bound is 11
+13-14 s: ssssssssssssgsssssss
+lower bound is 13
+upper bound is 14
+7-11 v: vkvvvvvvvvvvrvvvvxf
+lower bound is 7
+upper bound is 11
+2-3 z: zsjzz
+lower bound is 2
+upper bound is 3
+1-2 z: zqdgvz
+lower bound is 1
+upper bound is 2
+3-9 z: zzkzzzzzdz
+lower bound is 3
+upper bound is 9
+5-8 d: hnjtddwd
+lower bound is 5
+upper bound is 8
+10-16 k: lkwbfkbrchfkkkkkc
+lower bound is 10
+upper bound is 16
+2-3 m: kmmqb
+lower bound is 2
+upper bound is 3
+4-5 q: qqqgq
+lower bound is 4
+upper bound is 5
+10-11 z: rjnpzzlbvrfzxthzj
+lower bound is 10
+upper bound is 11
+6-7 q: wqzrzgql
+lower bound is 6
+upper bound is 7
+6-7 z: mzbzvgz
+lower bound is 6
+upper bound is 7
+2-3 p: spfd
+lower bound is 2
+upper bound is 3
+14-15 p: jppptjppbptpspv
+lower bound is 14
+upper bound is 15
+3-8 b: cbbbbkkbgt
+lower bound is 3
+upper bound is 8
+9-11 k: hkvnkgkkpkkl
+lower bound is 9
+upper bound is 11
+6-8 f: ffcffpff
+lower bound is 6
+upper bound is 8
+4-11 r: rrrnbhrbrpdfrrrrr
+lower bound is 4
+upper bound is 11
+12-15 g: dgdgdgghzlgrdggg
+lower bound is 12
+upper bound is 15
+15-16 r: npdmnzspxjmbmfwp
+lower bound is 15
+upper bound is 16
+1-4 c: xqcrkc
+lower bound is 1
+upper bound is 4
+3-9 l: ldcfdlzhbk
+lower bound is 3
+upper bound is 9
+5-15 s: ssrsccssqscssnsm
+lower bound is 5
+upper bound is 15
+5-8 l: bkdblbxhsmtlqhzwqj
+lower bound is 5
+upper bound is 8
+2-3 j: qqnnpmnbjshbb
+lower bound is 2
+upper bound is 3
+15-17 f: gffkkffvffdnscffff
+lower bound is 15
+upper bound is 17
+3-14 x: xxxxxxxxxxxxxmx
+lower bound is 3
+upper bound is 14
+11-15 p: ppppspppppppprppd
+lower bound is 11
+upper bound is 15
+3-5 s: wxjks
+lower bound is 3
+upper bound is 5
+8-15 d: dgdsdbddldchdvdddd
+lower bound is 8
+upper bound is 15
+14-15 k: kkkkkkkkkkkkbckk
+lower bound is 14
+upper bound is 15
+9-17 z: zzzzzzzzbzzzzzzzqz
+lower bound is 9
+upper bound is 17
+4-10 b: hbzkfbkmgb
+lower bound is 4
+upper bound is 10
+2-4 w: bwgwwn
+lower bound is 2
+upper bound is 4
+3-4 r: knrr
+lower bound is 3
+upper bound is 4
+9-14 p: tpcwnftjppvdqddprw
+lower bound is 9
+upper bound is 14
+1-2 d: dppdd
+lower bound is 1
+upper bound is 2
+1-5 n: pnnnnnnn
+lower bound is 1
+upper bound is 5
+6-7 s: ssssssss
+lower bound is 6
+upper bound is 7
+8-13 h: hgdnhnhltbhbhhdhszw
+lower bound is 8
+upper bound is 13
+6-12 w: rtswsljcxzjwjhbcdng
+lower bound is 6
+upper bound is 12
+1-2 h: hhddcvjhrrqpqq
+lower bound is 1
+upper bound is 2
+9-12 r: crrrrrrrrrrdr
+lower bound is 9
+upper bound is 12
+9-12 k: kwkkkkkkcbkpk
+lower bound is 9
+upper bound is 12
+2-5 d: ddddt
+lower bound is 2
+upper bound is 5
+1-4 g: nggl
+lower bound is 1
+upper bound is 4
+3-6 r: lrrtrdrfvg
+lower bound is 3
+upper bound is 6
+6-7 r: rzrglrwrv
+lower bound is 6
+upper bound is 7
+1-2 l: hgllll
+lower bound is 1
+upper bound is 2
+2-4 z: zvbz
+lower bound is 2
+upper bound is 4
+6-7 c: cccccnccccc
+lower bound is 6
+upper bound is 7
+3-4 w: glwmm
+lower bound is 3
+upper bound is 4
+8-11 z: vjzszzzznzzlzzs
+lower bound is 8
+upper bound is 11
+6-8 z: pzzfqpzzxzfz
+lower bound is 6
+upper bound is 8
+6-11 p: vwpppghprpmrdv
+lower bound is 6
+upper bound is 11
+9-13 p: mzkpjpvjhppkjkwx
+lower bound is 9
+upper bound is 13
+9-14 j: jwhwjkvszjwdzglb
+lower bound is 9
+upper bound is 14
+1-4 r: nrrlnpvdgfxk
+lower bound is 1
+upper bound is 4
+8-9 j: ggjsdmzjksxjcjgtw
+lower bound is 8
+upper bound is 9
+3-5 w: qjwwxw
+lower bound is 3
+upper bound is 5
+7-9 v: vvvvvvgvvv
+lower bound is 7
+upper bound is 9
+11-15 v: vvlgpvxvvpvkvvfb
+lower bound is 11
+upper bound is 15
+5-8 h: hhhhjpjk
+lower bound is 5
+upper bound is 8
+2-4 l: ldlz
+lower bound is 2
+upper bound is 4
+2-8 w: jljwwwwwbwwfw
+lower bound is 2
+upper bound is 8
+6-7 r: swwrzrr
+lower bound is 6
+upper bound is 7
+9-11 m: mrwmmmmmznmcm
+lower bound is 9
+upper bound is 11
+12-14 k: nkkkkkzkkkkkkk
+lower bound is 12
+upper bound is 14
+3-4 z: zktz
+lower bound is 3
+upper bound is 4
+3-6 r: rxcrkrzgrrrqfl
+lower bound is 3
+upper bound is 6
+4-7 q: kqwqpcqzq
+lower bound is 4
+upper bound is 7
+4-7 d: dndxpdd
+lower bound is 4
+upper bound is 7
+4-15 d: srddqhbcptnjhsdfgt
+lower bound is 4
+upper bound is 15
+4-13 q: xqqvjvdbvhqfqg
+lower bound is 4
+upper bound is 13
+10-12 p: rgmvtphzzpzp
+lower bound is 10
+upper bound is 12
+1-6 d: ddddddddd
+lower bound is 1
+upper bound is 6
+9-10 q: qqqqqqqqpqq
+lower bound is 9
+upper bound is 10
+11-12 d: dddwddmddmvdtnhd
+lower bound is 11
+upper bound is 12
+3-13 s: pfxnkkttnbqqbcfmhkls
+lower bound is 3
+upper bound is 13
+1-8 g: ggggggggg
+lower bound is 1
+upper bound is 8
+3-4 f: lkfn
+lower bound is 3
+upper bound is 4
+8-14 x: xxxkcxxxxxxxrnmxx
+lower bound is 8
+upper bound is 14
+5-10 d: zjbhdrpdkssbp
+lower bound is 5
+upper bound is 10
+3-12 f: fffffbfffffgf
+lower bound is 3
+upper bound is 12
+6-7 s: tkrwhsf
+lower bound is 6
+upper bound is 7
+15-19 w: dwwjxwwkwwwwcwsqwwx
+lower bound is 15
+upper bound is 19
+3-4 d: ddhn
+lower bound is 3
+upper bound is 4
+3-4 c: ccjtc
+lower bound is 3
+upper bound is 4
+6-10 z: zzzzcdzvzzzz
+lower bound is 6
+upper bound is 10
+5-6 p: jlppzpwprp
+lower bound is 5
+upper bound is 6
+1-7 x: zxxxxmxxx
+lower bound is 1
+upper bound is 7
+12-17 n: nvzsnrrnnbnwgmwxvnzt
+lower bound is 12
+upper bound is 17
+11-12 r: rmrrqrvlnqrr
+lower bound is 11
+upper bound is 12
+6-12 f: vcqwfcrwgxbfbbssxp
+lower bound is 6
+upper bound is 12
+7-9 p: wpppppppb
+lower bound is 7
+upper bound is 9
+1-4 s: sssrsss
+lower bound is 1
+upper bound is 4
+5-6 q: fqqqhqbq
+lower bound is 5
+upper bound is 6
+6-10 f: nfhfpffffm
+lower bound is 6
+upper bound is 10
+3-6 q: qqqqqqqq
+lower bound is 3
+upper bound is 6
+10-12 b: bbbwmbqvxrbbfdpr
+lower bound is 10
+upper bound is 12
+19-20 n: nnnntnnnnnnnnnnnnnbg
+lower bound is 19
+upper bound is 20
+8-10 r: rrrrrrrrrqr
+lower bound is 8
+upper bound is 10
+2-12 s: psqbsjvjtqxrxfmm
+lower bound is 2
+upper bound is 12
+5-7 h: qhxlmgh
+lower bound is 5
+upper bound is 7
+4-5 b: zkbnb
+lower bound is 4
+upper bound is 5
+7-9 c: zgfgzfcbxbpwgmqp
+lower bound is 7
+upper bound is 9
+2-5 z: zbzzzzzz
+lower bound is 2
+upper bound is 5
+12-15 v: tvrsxtktpjvknkv
+lower bound is 12
+upper bound is 15
+4-5 n: nnnnnnn
+lower bound is 4
+upper bound is 5
+1-2 h: vxhhhf
+lower bound is 1
+upper bound is 2
+13-17 x: xxxxxxxxxxxxtxxxxxx
+lower bound is 13
+upper bound is 17
+3-5 f: hzqhfjxrbjfvkldfqqd
+lower bound is 3
+upper bound is 5
+3-10 h: zhhqdbgmxh
+lower bound is 3
+upper bound is 10
+12-13 t: tttttttttwttmt
+lower bound is 12
+upper bound is 13
+1-8 m: wmdmsmmmmmmm
+lower bound is 1
+upper bound is 8
+16-17 l: lllllllllllllllvll
+lower bound is 16
+upper bound is 17
+3-15 z: dnzrtbjrlgfhljzsw
+lower bound is 3
+upper bound is 15
+3-10 p: pppppppppppppnp
+lower bound is 3
+upper bound is 10
+2-12 j: zjpdzqnfvddmctlbsnj
+lower bound is 2
+upper bound is 12
+5-13 f: fvghfmfqmnbff
+lower bound is 5
+upper bound is 13
+3-7 v: scvvshj
+lower bound is 3
+upper bound is 7
+2-5 v: vvzvc
+lower bound is 2
+upper bound is 5
+3-16 c: mzfhwgplcbrkxgbc
+lower bound is 3
+upper bound is 16
+3-4 b: ppcbnzrbpcdn
+lower bound is 3
+upper bound is 4
+1-6 q: nnqnzq
+lower bound is 1
+upper bound is 6
+11-13 w: wmswntwbrdwvhh
+lower bound is 11
+upper bound is 13
+1-12 r: rrrrrrwrlrrrrrrr
+lower bound is 1
+upper bound is 12
+3-9 q: ljxlwsqrq
+lower bound is 3
+upper bound is 9
+5-6 m: mmmmmlm
+lower bound is 5
+upper bound is 6
+10-12 h: hhhhhhhhhhhph
+lower bound is 10
+upper bound is 12
+14-19 f: ffnffrmzfffffffgffh
+lower bound is 14
+upper bound is 19
+2-3 j: jvjj
+lower bound is 2
+upper bound is 3
+3-10 t: tgtwjttjcjbktn
+lower bound is 3
+upper bound is 10
+1-2 l: lnlnwlflbllznllzlr
+lower bound is 1
+upper bound is 2
+8-10 h: hhhhhhhfhk
+lower bound is 8
+upper bound is 10
+11-12 q: jqqqqqqqqqmq
+lower bound is 11
+upper bound is 12
+1-3 m: mkmmr
+lower bound is 1
+upper bound is 3
+12-13 z: wxpzlzczmsfzc
+lower bound is 12
+upper bound is 13
+12-14 t: tttqwtvtkkwkrt
+lower bound is 12
+upper bound is 14
+8-12 x: xxxwxxxbxxxrtjxpt
+lower bound is 8
+upper bound is 12
+4-7 g: ggtxgggg
+lower bound is 4
+upper bound is 7
+3-5 g: qzcdwg
+lower bound is 3
+upper bound is 5
+10-11 g: zgbzfrgsggp
+lower bound is 10
+upper bound is 11
+2-5 g: gnggdg
+lower bound is 2
+upper bound is 5
+14-15 n: rnnnnnnnnnqnnsncn
+lower bound is 14
+upper bound is 15
+14-15 g: wggggmggggwkggdg
+lower bound is 14
+upper bound is 15
+13-18 p: phgpjbpgtgkpcrcpdfpp
+lower bound is 13
+upper bound is 18
+5-7 v: vlrmvpdw
+lower bound is 5
+upper bound is 7
+6-7 v: vvvvvzvv
+lower bound is 6
+upper bound is 7
+10-11 v: nrdpdcsbfvvbfzxvm
+lower bound is 10
+upper bound is 11
+1-2 d: ddbjvqhd
+lower bound is 1
+upper bound is 2
+8-10 w: wwvwwkvxwbwwww
+lower bound is 8
+upper bound is 10
+3-6 z: zzzdkjzwjn
+lower bound is 3
+upper bound is 6
+10-12 x: xxxxxxxxxsxx
+lower bound is 10
+upper bound is 12
+13-14 m: mmmmmmmmmmmmmlmmmm
+lower bound is 13
+upper bound is 14
+5-7 s: ssssssdsssssss
+lower bound is 5
+upper bound is 7
+3-4 p: phlpp
+lower bound is 3
+upper bound is 4
+6-16 m: mmmmmhmmmmmmmmmf
+lower bound is 6
+upper bound is 16
+7-8 j: jjjjjjjbjv
+lower bound is 7
+upper bound is 8
+1-4 p: fwpxpkp
+lower bound is 1
+upper bound is 4
+4-8 p: pppppppvp
+lower bound is 4
+upper bound is 8
+1-2 w: cwwwwwwwk
+lower bound is 1
+upper bound is 2
+13-18 g: grgskrgdgzggbbqhqbg
+lower bound is 13
+upper bound is 18
+2-9 s: rhnztnfssmrsr
+lower bound is 2
+upper bound is 9
+1-6 t: tttttv
+lower bound is 1
+upper bound is 6
+2-7 d: bdpcxgwdqgqzgsfvbm
+lower bound is 2
+upper bound is 7
+9-11 d: ddddddddbdd
+lower bound is 9
+upper bound is 11
+7-17 h: hhhbhhmhbhhhsvhhh
+lower bound is 7
+upper bound is 17
+7-16 v: vvvltnvvmcrqvvdmzmhc
+lower bound is 7
+upper bound is 16
+1-10 j: bqjjlxdchwmbm
+lower bound is 1
+upper bound is 10
+11-12 b: mjwbwbcjbdbs
+lower bound is 11
+upper bound is 12
+4-5 x: bzlxc
+lower bound is 4
+upper bound is 5
+4-9 s: dssssssvblsqstssts
+lower bound is 4
+upper bound is 9
+5-6 b: bbmbtbbwb
+lower bound is 5
+upper bound is 6
+11-12 b: ghtgfbnjtqxb
+lower bound is 11
+upper bound is 12
+3-6 j: jjrjjjjjj
+lower bound is 3
+upper bound is 6
+3-4 w: wwwwww
+lower bound is 3
+upper bound is 4
+11-13 m: mmmmmmmmmmmmhm
+lower bound is 11
+upper bound is 13
+8-11 s: sssspsspsss
+lower bound is 8
+upper bound is 11
+2-4 j: jjjk
+lower bound is 2
+upper bound is 4
+3-6 p: xpmppvzp
+lower bound is 3
+upper bound is 6
+6-8 l: qwtbjzhld
+lower bound is 6
+upper bound is 8
+2-3 n: nxtn
+lower bound is 2
+upper bound is 3
+5-8 w: qnwpwwwwjbctp
+lower bound is 5
+upper bound is 8
+6-7 n: dnwlnnn
+lower bound is 6
+upper bound is 7
+3-4 g: bfmgwdg
+lower bound is 3
+upper bound is 4
+10-12 n: qshvtphvnwmn
+lower bound is 10
+upper bound is 12
+4-7 f: zgfnkfj
+lower bound is 4
+upper bound is 7
+3-15 s: zvslmfqcmxvsgvv
+lower bound is 3
+upper bound is 15
+15-18 q: qqhqqqqqqqqvqqmqqwq
+lower bound is 15
+upper bound is 18
+4-6 w: dlwwxcpmq
+lower bound is 4
+upper bound is 6
+4-9 k: kkklkkkkkkk
+lower bound is 4
+upper bound is 9
+8-10 c: ccccccdwccr
+lower bound is 8
+upper bound is 10
+1-4 z: jczzzzgzmzzzrzzzz
+lower bound is 1
+upper bound is 4
+8-9 r: jvtrktdvdfr
+lower bound is 8
+upper bound is 9
+2-8 v: vzvvvvvv
+lower bound is 2
+upper bound is 8
+2-3 l: lllll
+lower bound is 2
+upper bound is 3
+11-14 c: cccccccckcccctc
+lower bound is 11
+upper bound is 14
+3-4 b: wxcrhbkpbtkqbb
+lower bound is 3
+upper bound is 4
+5-7 t: zgptttr
+lower bound is 5
+upper bound is 7
+1-7 m: fmmmmtmmmm
+lower bound is 1
+upper bound is 7
+3-7 p: hvcpkbp
+lower bound is 3
+upper bound is 7
+4-5 v: pgvhc
+lower bound is 4
+upper bound is 5
+19-20 t: tnttttttttttttlttttt
+lower bound is 19
+upper bound is 20
+3-6 c: ccccccc
+lower bound is 3
+upper bound is 6
+12-19 s: jbpsshpsnvnzssdshss
+lower bound is 12
+upper bound is 19
+3-7 n: npqnnvn
+lower bound is 3
+upper bound is 7
+2-5 p: nppcv
+lower bound is 2
+upper bound is 5
+2-6 b: bbbbbd
+lower bound is 2
+upper bound is 6
+2-14 c: chclncgrhqqccbtcfc
+lower bound is 2
+upper bound is 14
+6-8 t: ttttttttttttt
+lower bound is 6
+upper bound is 8
+7-14 n: njnnnknlnnnnnnnn
+lower bound is 7
+upper bound is 14
+13-17 q: qwvzjwgqkshxqlqfqh
+lower bound is 13
+upper bound is 17
+9-12 v: vbvcvvqvpvvvvvbv
+lower bound is 9
+upper bound is 12
+6-7 z: zzzzzgv
+lower bound is 6
+upper bound is 7
+3-5 v: gvgfvvxrcdvvvvmrvv
+lower bound is 3
+upper bound is 5
+11-16 z: zzznzlcjzzcjzwfl
+lower bound is 11
+upper bound is 16
+1-4 w: wlwwqwwwr
+lower bound is 1
+upper bound is 4
+15-17 r: mrrbxprsxclprfslcd
+lower bound is 15
+upper bound is 17
+10-11 s: sssssssssds
+lower bound is 10
+upper bound is 11
+9-13 p: qjmdllptppszpl
+lower bound is 9
+upper bound is 13
+12-13 n: nvngpnnnnnnsn
+lower bound is 12
+upper bound is 13
+8-15 n: mnsnnbdnnnngfhn
+lower bound is 8
+upper bound is 15
+1-18 b: kbbbdbbbbbzbgnbbbb
+lower bound is 1
+upper bound is 18
+2-8 b: bjbmbjpbbmhbsxbbv
+lower bound is 2
+upper bound is 8
+7-17 f: ffffffffffffffffvfff
+lower bound is 7
+upper bound is 17
+10-13 q: qqqqqqqqqtqqq
+lower bound is 10
+upper bound is 13
+5-6 s: ssssrts
+lower bound is 5
+upper bound is 6
+9-20 t: txplrphbwnvnvkftmnct
+lower bound is 9
+upper bound is 20
+6-7 f: ffrfbfffnf
+lower bound is 6
+upper bound is 7
+10-13 s: ssssfvlsssnsv
+lower bound is 10
+upper bound is 13
+4-5 l: qwrhllzmlrz
+lower bound is 4
+upper bound is 5
+12-18 n: nnnnnnnnrnnzncnxnnw
+lower bound is 12
+upper bound is 18
+14-15 k: lsrknlskcnbbdknfjj
+lower bound is 14
+upper bound is 15
+3-5 z: wzzzzh
+lower bound is 3
+upper bound is 5
+1-3 j: qjvjjjw
+lower bound is 1
+upper bound is 3
+5-6 n: nctxhn
+lower bound is 5
+upper bound is 6
+8-19 r: krrkhxrfflxhrphrzvrw
+lower bound is 8
+upper bound is 19
+9-10 r: tqrkrrrsrvrrqrrp
+lower bound is 9
+upper bound is 10
+6-12 l: ldlnxrlllvlkllkl
+lower bound is 6
+upper bound is 12
+3-6 p: jpwwzpcppwtspp
+lower bound is 3
+upper bound is 6
+12-13 p: ptptpppkpzppgpppd
+lower bound is 12
+upper bound is 13
+5-6 w: wwwwtwwww
+lower bound is 5
+upper bound is 6
+12-14 p: mkqwvmptpxslfppk
+lower bound is 12
+upper bound is 14
+2-5 f: bxfvf
+lower bound is 2
+upper bound is 5
+4-7 v: qvvwvxvvvvvvv
+lower bound is 4
+upper bound is 7
+8-9 t: mxthgrlth
+lower bound is 8
+upper bound is 9
+5-6 k: kkkkkkk
+lower bound is 5
+upper bound is 6
+8-11 q: hqqfqqqnqqw
+lower bound is 8
+upper bound is 11
+11-14 w: wfwwwswwtwvwwgwjww
+lower bound is 11
+upper bound is 14
+10-12 n: qnnnnnnnprnnnn
+lower bound is 10
+upper bound is 12
+4-6 g: fdvgfhgjzgg
+lower bound is 4
+upper bound is 6
+3-4 p: hdpp
+lower bound is 3
+upper bound is 4
+2-5 l: lfllllll
+lower bound is 2
+upper bound is 5
+13-17 z: zzzzzzzzjzzzzzxzgzzz
+lower bound is 13
+upper bound is 17
+12-15 m: lzmxcrkqfcvmbbmtxrs
+lower bound is 12
+upper bound is 15
+14-15 d: njdwbbhbzvtsdtvn
+lower bound is 14
+upper bound is 15
+7-8 x: xmxrxxmz
+lower bound is 7
+upper bound is 8
+8-15 p: gfznjbfbqpbpmspp
+lower bound is 8
+upper bound is 15
+9-20 z: wdrzlmltkddzlqgzsvpz
+lower bound is 9
+upper bound is 20
+5-6 f: qqgxpzbnb
+lower bound is 5
+upper bound is 6
+7-9 l: jlllllllc
+lower bound is 7
+upper bound is 9
+1-6 x: xmbxxjxd
+lower bound is 1
+upper bound is 6
+4-5 p: pppdp
+lower bound is 4
+upper bound is 5
+5-6 f: ffffzff
+lower bound is 5
+upper bound is 6
+2-4 r: rrrxr
+lower bound is 2
+upper bound is 4
+3-6 s: vpsbsv
+lower bound is 3
+upper bound is 6
+7-10 c: spcccccccl
+lower bound is 7
+upper bound is 10
+3-6 h: sshhkhcr
+lower bound is 3
+upper bound is 6
+10-15 f: fnfjfpfmfrfffffffj
+lower bound is 10
+upper bound is 15
+15-16 z: tzzzgshvmdgzndgs
+lower bound is 15
+upper bound is 16
+5-15 s: sksssqcsbjdsmvfxt
+lower bound is 5
+upper bound is 15
+8-9 p: ppppppjrpvp
+lower bound is 8
+upper bound is 9
+8-12 v: vvvvvvvgvvvvvv
+lower bound is 8
+upper bound is 12
+2-3 k: kzkk
+lower bound is 2
+upper bound is 3
+13-17 t: ttttttttttttttttrt
+lower bound is 13
+upper bound is 17
+6-10 l: swtvlwrlslgh
+lower bound is 6
+upper bound is 10
+1-3 r: wrnr
+lower bound is 1
+upper bound is 3
+3-4 k: kkkfkkkkkkkkqkkkkkkk
+lower bound is 3
+upper bound is 4
+8-9 k: kkkkfkkzk
+lower bound is 8
+upper bound is 9
+5-9 p: vplbwppwfgfpchjlcf
+lower bound is 5
+upper bound is 9
+1-2 t: skttrtts
+lower bound is 1
+upper bound is 2
+2-6 h: bhqznh
+lower bound is 2
+upper bound is 6
+13-14 k: kcskmkkkwlpqqck
+lower bound is 13
+upper bound is 14
+14-15 s: jsshdssxsqssjkm
+lower bound is 14
+upper bound is 15
+5-13 t: tgchhzcttxlttwtkt
+lower bound is 5
+upper bound is 13
+5-10 l: lslnbllmlw
+lower bound is 5
+upper bound is 10
+3-4 k: xkqqf
+lower bound is 3
+upper bound is 4
+2-11 p: ppppvqppjpx
+lower bound is 2
+upper bound is 11
+6-12 h: hhhhhhhhhhhjhhh
+lower bound is 6
+upper bound is 12
+4-6 k: fkpmnfhrm
+lower bound is 4
+upper bound is 6
+8-11 t: xwzgtlvswrt
+lower bound is 8
+upper bound is 11
+4-11 r: rrrrrrrdrnrrrrbg
+lower bound is 4
+upper bound is 11
+5-7 k: kkkkkkhk
+lower bound is 5
+upper bound is 7
+1-6 l: lllllkl
+lower bound is 1
+upper bound is 6
+18-19 f: frtfffffffxmfffdvfc
+lower bound is 18
+upper bound is 19
+5-7 h: nzhhngrhhhh
+lower bound is 5
+upper bound is 7
+7-8 j: jjjjjjjsjjjjnjjjjj
+lower bound is 7
+upper bound is 8
+6-7 v: vvkbvrqvg
+lower bound is 6
+upper bound is 7
+4-10 s: sssgsssxxssss
+lower bound is 4
+upper bound is 10
+1-3 h: hhgrwfn
+lower bound is 1
+upper bound is 3
+1-5 c: ccjgcbcc
+lower bound is 1
+upper bound is 5
+7-10 p: cpnnpgpprppppxpjp
+lower bound is 7
+upper bound is 10
+9-10 p: pppcpppppppp
+lower bound is 9
+upper bound is 10
+10-12 c: ccfczqcgccdcf
+lower bound is 10
+upper bound is 12
+3-5 j: vwjdv
+lower bound is 3
+upper bound is 5
+10-13 l: llllpblvclnlwllx
+lower bound is 10
+upper bound is 13
+3-4 n: nnctnp
+lower bound is 3
+upper bound is 4
+4-5 z: zzzzmzzzz
+lower bound is 4
+upper bound is 5
+4-5 s: mcsslbgst
+lower bound is 4
+upper bound is 5
+7-9 p: ppppdbpwmpppkppsp
+lower bound is 7
+upper bound is 9
+7-13 d: vdnmpvdvtvdcddqk
+lower bound is 7
+upper bound is 13
+4-6 x: tpcxlx
+lower bound is 4
+upper bound is 6
+2-4 c: cmcqcrcccclccx
+lower bound is 2
+upper bound is 4
+6-8 k: kzvpvhlwdrhtcsl
+lower bound is 6
+upper bound is 8
+6-9 r: rrrrrrrrrr
+lower bound is 6
+upper bound is 9
+3-15 t: ttttttttttttttttt
+lower bound is 3
+upper bound is 15
+7-9 f: fpffvmdjjffxf
+lower bound is 7
+upper bound is 9
+3-4 z: zzqzg
+lower bound is 3
+upper bound is 4
+2-3 p: krpp
+lower bound is 2
+upper bound is 3
+9-10 v: cjvqzvlvxvvv
+lower bound is 9
+upper bound is 10
+11-17 r: jrnrrrkrlzqrjrrrrdj
+lower bound is 11
+upper bound is 17
+11-12 q: hzxtksqmtjbq
+lower bound is 11
+upper bound is 12
+2-15 j: lxrlvnqkbnmknfdml
+lower bound is 2
+upper bound is 15
+9-10 x: xsfzmglglxrtxnwwxr
+lower bound is 9
+upper bound is 10
+2-3 t: tgtlhstcft
+lower bound is 2
+upper bound is 3
+19-20 q: pqfdqqqvxsqqqqtrxsqp
+lower bound is 19
+upper bound is 20
+9-10 q: lkjxdqqqhqqw
+lower bound is 9
+upper bound is 10
+3-4 w: hwfd
+lower bound is 3
+upper bound is 4
+1-3 g: jgjrgjgw
+lower bound is 1
+upper bound is 3
+10-11 r: lrqrfdttrfr
+lower bound is 10
+upper bound is 11
+15-16 k: hkkkkkskkkkfkkkj
+lower bound is 15
+upper bound is 16
+1-4 d: ddds
+lower bound is 1
+upper bound is 4
+18-20 b: vqwxbbwbbksbxctklbbb
+lower bound is 18
+upper bound is 20
+1-11 w: clzrdzwhlkwbgjwwwwh
+lower bound is 1
+upper bound is 11
+5-12 b: cjbvnbtvhlpz
+lower bound is 5
+upper bound is 12
+17-19 s: ssxssspjsssssssssshs
+lower bound is 17
+upper bound is 19
+2-8 q: wrjbvqlfqq
+lower bound is 2
+upper bound is 8
+7-10 v: xgnzvsvjjztv
+lower bound is 7
+upper bound is 10
+2-6 d: ggjgjdsdsbwl
+lower bound is 2
+upper bound is 6
+3-4 w: wwcwwww
+lower bound is 3
+upper bound is 4
+9-10 l: lrllllllkln
+lower bound is 9
+upper bound is 10
+9-11 d: ddddddddldtdd
+lower bound is 9
+upper bound is 11
+2-6 g: wrggcgw
+lower bound is 2
+upper bound is 6
+2-6 t: sttmttvkbdfhr
+lower bound is 2
+upper bound is 6
+2-4 h: jhmx
+lower bound is 2
+upper bound is 4
+9-11 k: kkkkkkkkkkkkkk
+lower bound is 9
+upper bound is 11
+6-18 s: hsnsqsjsjjctpltkms
+lower bound is 6
+upper bound is 18
+12-13 t: wctjkstvxwggvq
+lower bound is 12
+upper bound is 13
+1-11 l: lfrztknsgndvlnqbsq
+lower bound is 1
+upper bound is 11
+3-4 w: wwfsww
+lower bound is 3
+upper bound is 4
+6-7 w: pllwlwm
+lower bound is 6
+upper bound is 7
+2-11 j: jjjjwjjljjc
+lower bound is 2
+upper bound is 11
+14-15 p: ppppgpppmptppcpzp
+lower bound is 14
+upper bound is 15
+13-14 l: llllllllllllnqll
+lower bound is 13
+upper bound is 14
+12-13 w: wwwwwwwwwwwcx
+lower bound is 12
+upper bound is 13
+6-7 c: cccccfcccq
+lower bound is 6
+upper bound is 7
+6-13 j: rsrkqbjhmzjwpcjznz
+lower bound is 6
+upper bound is 13
+3-4 d: jddb
+lower bound is 3
+upper bound is 4
+6-12 r: jrrrrjrrrrrrrr
+lower bound is 6
+upper bound is 12
+5-6 t: ttttrt
+lower bound is 5
+upper bound is 6
+7-19 q: qqqqqcvnqqqqqqqtqsqq
+lower bound is 7
+upper bound is 19
+6-8 w: xgwzcwvkvs
+lower bound is 6
+upper bound is 8
+8-15 h: xnphxhtrdstnphhvhw
+lower bound is 8
+upper bound is 15
+1-5 v: kvvvvv
+lower bound is 1
+upper bound is 5
+4-6 z: zzzmzzzzzzzzzzzz
+lower bound is 4
+upper bound is 6
+1-3 j: qjjj
+lower bound is 1
+upper bound is 3
+4-5 j: hfzjj
+lower bound is 4
+upper bound is 5
+6-7 v: vvvvvcxvvv
+lower bound is 6
+upper bound is 7
+4-13 f: vsrfcsvvszpffm
+lower bound is 4
+upper bound is 13
+7-8 h: zljndncshnknzbhbwqhl
+lower bound is 7
+upper bound is 8
+7-10 g: ggggggcggggg
+lower bound is 7
+upper bound is 10
+10-13 p: ppfppppppppklpspppzp
+lower bound is 10
+upper bound is 13
+3-4 l: spvwl
+lower bound is 3
+upper bound is 4
+4-5 q: crqqntbvqkzwmvqpbx
+lower bound is 4
+upper bound is 5
+6-10 q: bqqqjqqsdk
+lower bound is 6
+upper bound is 10
+14-15 k: bblxvspkqmrndfkkp
+lower bound is 14
+upper bound is 15
+1-3 b: bbdb
+lower bound is 1
+upper bound is 3
+14-19 q: jwttkvnrbfstqlsrbtq
+lower bound is 14
+upper bound is 19
+18-19 j: jjjjjjjjjjjjjjjjjnf
+lower bound is 18
+upper bound is 19
+4-11 d: rdkdnpdvjjtx
+lower bound is 4
+upper bound is 11
+11-12 v: vvvvvvkvvvnr
+lower bound is 11
+upper bound is 12
+10-12 k: kkkkkkkkkddkj
+lower bound is 10
+upper bound is 12
+4-5 l: xllllplksn
+lower bound is 4
+upper bound is 5
+10-12 x: pxgxxxxxxkxnx
+lower bound is 10
+upper bound is 12
+13-16 l: sjlllfrkblccjrllq
+lower bound is 13
+upper bound is 16
+4-6 p: ppptlppp
+lower bound is 4
+upper bound is 6
+4-14 v: nvvvvvwvvsvpvrvvvq
+lower bound is 4
+upper bound is 14
+8-9 v: vvvvkvvvdvvvvvv
+lower bound is 8
+upper bound is 9
+12-16 z: zzzzzzzzlzzzzkzm
+lower bound is 12
+upper bound is 16
+4-7 s: zsfsjsp
+lower bound is 4
+upper bound is 7
+8-17 v: vvmlvvvvtxvdvsvvq
+lower bound is 8
+upper bound is 17
+17-19 t: tgtgglgtrtttdxttztl
+lower bound is 17
+upper bound is 19
+8-12 p: pppppppppppph
+lower bound is 8
+upper bound is 12
+1-8 p: pppspfpjppppzpnpppp
+lower bound is 1
+upper bound is 8
+3-4 f: fffnf
+lower bound is 3
+upper bound is 4
+8-9 b: jbbbfsbmgbbb
+lower bound is 8
+upper bound is 9
+1-9 h: hhhghqrhhhhp
+lower bound is 1
+upper bound is 9
+4-7 r: rvrtgrr
+lower bound is 4
+upper bound is 7
+2-4 g: ggknk
+lower bound is 2
+upper bound is 4
+5-6 w: cwwwww
+lower bound is 5
+upper bound is 6
+6-7 q: vqtqqkq
+lower bound is 6
+upper bound is 7
+6-7 m: mrqbmrp
+lower bound is 6
+upper bound is 7
+7-8 x: gmxxxmxdx
+lower bound is 7
+upper bound is 8
+1-4 d: sxddrddcp
+lower bound is 1
+upper bound is 4
+8-9 b: bmbbbbbbm
+lower bound is 8
+upper bound is 9
+11-13 g: gplgggzgggdgg
+lower bound is 11
+upper bound is 13
+3-4 l: ldfflx
+lower bound is 3
+upper bound is 4
+9-11 k: kkknkkmnkcc
+lower bound is 9
+upper bound is 11
+9-13 g: gggpxgggggzgg
+lower bound is 9
+upper bound is 13
+19-20 j: lfqjdqjddctcjnjzsvjp
+lower bound is 19
+upper bound is 20
+7-9 z: dzrgdczbz
+lower bound is 7
+upper bound is 9
+1-5 p: ppppcp
+lower bound is 1
+upper bound is 5
+11-14 b: bbbbbbbbbbmbbbbb
+lower bound is 11
+upper bound is 14
+8-19 j: xjvdrjwjjtjfdcgjbqg
+lower bound is 8
+upper bound is 19
+15-16 b: bbbbbbbbbbbbbbkbb
+lower bound is 15
+upper bound is 16
+2-13 p: pgppppwpppxppppppd
+lower bound is 2
+upper bound is 13
+8-11 x: mdpvkqsxvzxgtvb
+lower bound is 8
+upper bound is 11
+14-17 w: wzfwvwwwwwjwwrbww
+lower bound is 14
+upper bound is 17
+1-4 v: pvvvvvvvvvvvv
+lower bound is 1
+upper bound is 4
+10-11 j: jrjnlcjnjdmzxjt
+lower bound is 10
+upper bound is 11
+10-11 z: ggzzzqzzzzvn
+lower bound is 10
+upper bound is 11
+3-6 q: bsjbsh
+lower bound is 3
+upper bound is 6
+8-11 c: rlrxxcnvqccjmhnh
+lower bound is 8
+upper bound is 11
+6-14 l: sllqrllhflnjxl
+lower bound is 6
+upper bound is 14
+1-10 j: jjjjjjjjjdjj
+lower bound is 1
+upper bound is 10
+11-13 q: rqqxqjbhgsqqq
+lower bound is 11
+upper bound is 13
+7-8 p: ppnhwpkkpp
+lower bound is 7
+upper bound is 8
+5-7 h: hhhhqhh
+lower bound is 5
+upper bound is 7
+1-3 n: nngn
+lower bound is 1
+upper bound is 3
+4-14 z: zzzzzzzzzmzzzlzzzz
+lower bound is 4
+upper bound is 14
+3-4 v: trvvpvfbkpgstqtq
+lower bound is 3
+upper bound is 4
+8-13 j: hskzqpxjjfjqmjnpq
+lower bound is 8
+upper bound is 13
+1-4 n: jnnnkn
+lower bound is 1
+upper bound is 4
+2-8 z: zxzzzzzzzzz
+lower bound is 2
+upper bound is 8
+13-16 g: gggggggggzgvgxggggg
+lower bound is 13
+upper bound is 16
+3-6 c: cksnbpjtc
+lower bound is 3
+upper bound is 6
+7-11 g: ghggqqgcgvw
+lower bound is 7
+upper bound is 11
+7-16 h: hhhhhhshhhhhhhjhhh
+lower bound is 7
+upper bound is 16
+3-4 p: vhpq
+lower bound is 3
+upper bound is 4
+2-8 c: rcccbgcmgg
+lower bound is 2
+upper bound is 8
+6-13 d: dddqddjdzgdwqdpd
+lower bound is 6
+upper bound is 13
+4-5 z: dxjzzzpjsqwzmqzbzq
+lower bound is 4
+upper bound is 5
+1-2 d: dhlzdwrq
+lower bound is 1
+upper bound is 2
+1-5 g: ggggg
+lower bound is 1
+upper bound is 5
+7-9 w: wdwlhlpwwwww
+lower bound is 7
+upper bound is 9
+12-16 f: ffdfhfsfxfpnrfvf
+lower bound is 12
+upper bound is 16
+9-11 q: qqqqvqrqqqq
+lower bound is 9
+upper bound is 11
+6-8 j: qrjjjjvn
+lower bound is 6
+upper bound is 8
+4-6 w: qwwwds
+lower bound is 4
+upper bound is 6
+13-14 n: nnnnnnnnnnnnnvn
+lower bound is 13
+upper bound is 14
+5-6 c: ccccgc
+lower bound is 5
+upper bound is 6
+13-14 s: qgsdbsklkxsxlshzs
+lower bound is 13
+upper bound is 14
+11-16 m: mmmmmmmmmmmmmmmpm
+lower bound is 11
+upper bound is 16
+5-6 r: rrjrrr
+lower bound is 5
+upper bound is 6
+3-9 m: mmjnkmmmnmmmmmmn
+lower bound is 3
+upper bound is 9
+8-17 x: xxxxxxxhxxxxxxxxwxxx
+lower bound is 8
+upper bound is 17
+1-4 v: vlgvvlljxwq
+lower bound is 1
+upper bound is 4
+2-12 r: nfvxwwkhzszrfwrb
+lower bound is 2
+upper bound is 12
+10-13 j: jjjjjjjtjrjqjj
+lower bound is 10
+upper bound is 13
+3-5 g: lrggg
+lower bound is 3
+upper bound is 5
+6-10 m: cmmmmmmmmd
+lower bound is 6
+upper bound is 10
+4-6 c: dcctcc
+lower bound is 4
+upper bound is 6
+16-17 r: rnzknqrrbsrvsrgrrcr
+lower bound is 16
+upper bound is 17
+2-3 j: djjr
+lower bound is 2
+upper bound is 3
+6-15 q: qqnmqxqqbsqqqqkq
+lower bound is 6
+upper bound is 15
+3-5 h: khhrcpvzz
+lower bound is 3
+upper bound is 5
+5-6 h: qcjmhhvthfn
+lower bound is 5
+upper bound is 6
+15-16 d: kdjtlmldhdrddddd
+lower bound is 15
+upper bound is 16
+10-13 s: sssssssssqssssskss
+lower bound is 10
+upper bound is 13
+5-8 c: pccrwbvjcccfvt
+lower bound is 5
+upper bound is 8
+9-10 j: jjjjjjjjtjjj
+lower bound is 9
+upper bound is 10
+5-9 r: wbfsrlktcxhskhnvkqxl
+lower bound is 5
+upper bound is 9
+13-15 x: wjpxtbxxxgxxxjx
+lower bound is 13
+upper bound is 15
+6-7 r: fzlcsrc
+lower bound is 6
+upper bound is 7
+13-17 b: nbbbbbbbfbvbbbbbz
+lower bound is 13
+upper bound is 17
+7-19 r: vfwrvbxrqwrnddmrdsr
+lower bound is 7
+upper bound is 19
+4-18 q: qdqdvqmvplwfqxwmphx
+lower bound is 4
+upper bound is 18
+15-17 g: ggggggggggggggggqgg
+lower bound is 15
+upper bound is 17
+3-6 z: zzpzzzz
+lower bound is 3
+upper bound is 6
+7-8 t: thlmnpttk
+lower bound is 7
+upper bound is 8
+7-8 j: jwjjjnjjfjj
+lower bound is 7
+upper bound is 8
+5-18 k: vcglkbwhhsbwgfkfww
+lower bound is 5
+upper bound is 18
+2-10 s: ssmvzjxhvsztdpwgj
+lower bound is 2
+upper bound is 10
+8-14 l: lllllllllllllml
+lower bound is 8
+upper bound is 14
+1-8 c: lclcsccccd
+lower bound is 1
+upper bound is 8
+11-12 x: gnxrztwptxhx
+lower bound is 11
+upper bound is 12
+9-10 c: zsbcccccqcdcc
+lower bound is 9
+upper bound is 10
+3-13 q: wlqnqnvsnqnqkbghzh
+lower bound is 3
+upper bound is 13
+3-7 p: pjpppvpkjpxspnprdhnt
+lower bound is 3
+upper bound is 7
+8-13 w: wplhwwwwwwmbwq
+lower bound is 8
+upper bound is 13
+5-6 h: hhhhhmh
+lower bound is 5
+upper bound is 6
+2-6 d: wdqndqhwjvzdlddvjdw
+lower bound is 2
+upper bound is 6
+2-3 p: pppr
+lower bound is 2
+upper bound is 3
+5-8 v: qwvvvkvv
+lower bound is 5
+upper bound is 8
+13-16 w: wqjtwnlrmwdclfkws
+lower bound is 13
+upper bound is 16
+11-17 f: fkhnfnffjqfrffjftffl
+lower bound is 11
+upper bound is 17
+5-8 j: jjjjrjnjgth
+lower bound is 5
+upper bound is 8
+4-10 v: vvvqvvvqvqvv
+lower bound is 4
+upper bound is 10
+2-16 g: cvvdfbckdbsgwhsghrnr
+lower bound is 2
+upper bound is 16
+4-6 f: phtfxh
+lower bound is 4
+upper bound is 6
+2-3 c: bchmdnccc
+lower bound is 2
+upper bound is 3
+9-19 l: cdtftrqcljljpjfdrjl
+lower bound is 9
+upper bound is 19
+1-3 r: jrrrrrr
+lower bound is 1
+upper bound is 3
+15-17 j: vdgsnpvdjghzgqrtj
+lower bound is 15
+upper bound is 17
+1-2 s: kssss
+lower bound is 1
+upper bound is 2
+7-10 t: rpttttmtmwpttttv
+lower bound is 7
+upper bound is 10
+6-9 t: tttttjtxb
+lower bound is 6
+upper bound is 9
+5-6 q: kqjvqj
+lower bound is 5
+upper bound is 6
+5-11 j: jjjmwwmqfhjb
+lower bound is 5
+upper bound is 11
+9-13 h: hhvsnhdxfzcbhg
+lower bound is 9
+upper bound is 13
+2-5 g: cgrbgmnrkqhgpzdmvjlz
+lower bound is 2
+upper bound is 5
+11-12 n: nnnnnnnnnnsnnxnn
+lower bound is 11
+upper bound is 12
+4-6 q: qqqkqqqq
+lower bound is 4
+upper bound is 6
+11-15 q: qrgqqqqfqqhqqqqqqqq
+lower bound is 11
+upper bound is 15
+15-17 f: sfffftfffffvfffblf
+lower bound is 15
+upper bound is 17
+1-2 k: zktdk
+lower bound is 1
+upper bound is 2
+5-14 w: wwwwthwwwwwwww
+lower bound is 5
+upper bound is 14
+3-4 g: gggghg
+lower bound is 3
+upper bound is 4
+9-11 l: ldlllllkftlbmlll
+lower bound is 9
+upper bound is 11
+9-11 b: bbbbbbbjdbsb
+lower bound is 9
+upper bound is 11
+4-5 h: hlhhh
+lower bound is 4
+upper bound is 5
+3-16 r: rrdrrrrrrrhrrrrssrb
+lower bound is 3
+upper bound is 16
+7-19 l: ccdzxllmgfwgwkfsrts
+lower bound is 7
+upper bound is 19
+8-11 p: pqpppppppjzpppp
+lower bound is 8
+upper bound is 11
+4-9 w: mgwwgwjfk
+lower bound is 4
+upper bound is 9
+9-17 m: rmtmtmmjmvtmqcmvmmm
+lower bound is 9
+upper bound is 17
+1-5 g: ggggxggwggngg
+lower bound is 1
+upper bound is 5
+5-7 k: kkxknhkkkk
+lower bound is 5
+upper bound is 7
+10-11 q: qqqqqqqqqqzq
+lower bound is 10
+upper bound is 11
+3-11 f: tffgcrwjmmfgfzfxhfcw
+lower bound is 3
+upper bound is 11
+1-13 c: cwcrcxshprftxpkqccvn
+lower bound is 1
+upper bound is 13
+4-5 f: mffsvf
+lower bound is 4
+upper bound is 5
+5-6 z: hzbczzqz
+lower bound is 5
+upper bound is 6
+9-10 x: xxsdxxxxvvdxcsxxx
+lower bound is 9
+upper bound is 10
+4-11 t: fdjqphpktwtb
+lower bound is 4
+upper bound is 11
+4-10 b: tbbbbbvbbjb
+lower bound is 4
+upper bound is 10
+5-7 l: llptlml
+lower bound is 5
+upper bound is 7
+1-2 p: cqwkvxfzb
+lower bound is 1
+upper bound is 2
+6-9 h: hjhhhhhhkhhh
+lower bound is 6
+upper bound is 9
+14-16 n: wzfndkzxzshxsnvb
+lower bound is 14
+upper bound is 16
+6-16 p: pppppppppvpppppppp
+lower bound is 6
+upper bound is 16
+10-12 m: mmmmmmmmzmmmmmmmm
+lower bound is 10
+upper bound is 12
+6-8 g: gggggggg
+lower bound is 6
+upper bound is 8
+8-10 f: dffdfsnfcdwmfpffgs
+lower bound is 8
+upper bound is 10
+1-8 l: lllllllgbl
+lower bound is 1
+upper bound is 8
+7-9 x: xxxdxxpxx
+lower bound is 7
+upper bound is 9
+5-8 s: sshsqsssss
+lower bound is 5
+upper bound is 8
+7-13 n: jhbsdvsltxnmnjgwxlph
+lower bound is 7
+upper bound is 13
+7-9 x: xhxxsflxpnfcc
+lower bound is 7
+upper bound is 9
+9-10 k: kwkkcmqktx
+lower bound is 9
+upper bound is 10
+3-7 b: bbbbbbbb
+lower bound is 3
+upper bound is 7
+2-3 d: ddnd
+lower bound is 2
+upper bound is 3
+14-15 c: ccccccbccccswlbcccdh
+lower bound is 14
+upper bound is 15
+2-5 n: znxln
+lower bound is 2
+upper bound is 5
+1-7 w: rlhwpsf
+lower bound is 1
+upper bound is 7
+3-6 t: jhzmqtxf
+lower bound is 3
+upper bound is 6
+4-11 t: bttptntxztt
+lower bound is 4
+upper bound is 11
+2-3 t: qmgxt
+lower bound is 2
+upper bound is 3
+1-15 g: ggggggggggggggglghg
+lower bound is 1
+upper bound is 15
+10-15 j: qvlhvgbmzbgkzrjdxt
+lower bound is 10
+upper bound is 15
+9-16 r: rrrnnbpprfrlqmsdr
+lower bound is 9
+upper bound is 16
+2-5 q: qqqqdqq
+lower bound is 2
+upper bound is 5
+3-4 d: dddwd
+lower bound is 3
+upper bound is 4
+6-17 q: kfzvgqkmqcfbbnlxq
+lower bound is 6
+upper bound is 17
+4-5 s: sssslssssshsssss
+lower bound is 4
+upper bound is 5
+4-5 c: kccgcc
+lower bound is 4
+upper bound is 5
+3-4 m: zmqm
+lower bound is 3
+upper bound is 4
+3-4 k: tmkn
+lower bound is 3
+upper bound is 4
+4-16 v: vvvlvvvvvvvvvvvvvv
+lower bound is 4
+upper bound is 16
+5-10 k: mkkkkkkwklkkkkkk
+lower bound is 5
+upper bound is 10
+18-20 k: kkkkkkkkkkkkkkkkkkkm
+lower bound is 18
+upper bound is 20
+3-9 z: zzzzzzzhzzkzs
+lower bound is 3
+upper bound is 9
+5-6 x: dxxznxxxp
+lower bound is 5
+upper bound is 6
+1-2 n: njnnnkxn
+lower bound is 1
+upper bound is 2
+1-4 q: mqqqqq
+lower bound is 1
+upper bound is 4
+8-9 k: knkkkkwkntkkkkkckkk
+lower bound is 8
+upper bound is 9
+13-15 q: qqqqfsfqrkbjcnlw
+lower bound is 13
+upper bound is 15
+12-17 d: dddddddddddddddddd
+lower bound is 12
+upper bound is 17
+1-2 p: pszxjn
+lower bound is 1
+upper bound is 2
+3-7 f: ffwrfjffpfcsfhffqc
+lower bound is 3
+upper bound is 7
+1-9 x: xxqxxdvlk
+lower bound is 1
+upper bound is 9
+8-11 h: dvsjhhthcvchhlls
+lower bound is 8
+upper bound is 11
+10-11 v: vvvvvkvvvmvv
+lower bound is 10
+upper bound is 11
+6-7 n: nnnnntqn
+lower bound is 6
+upper bound is 7
+1-3 j: hjjj
+lower bound is 1
+upper bound is 3
+4-6 d: dhdrddhn
+lower bound is 4
+upper bound is 6
+7-8 c: tccsmjmf
+lower bound is 7
+upper bound is 8
+3-7 g: gglggggggrggggggggg
+lower bound is 3
+upper bound is 7
+11-18 p: jptgncxzwspzpxjpzp
+lower bound is 11
+upper bound is 18
+15-16 j: jjjjjjjzjjjjjjrk
+lower bound is 15
+upper bound is 16
+4-8 d: dddddddc
+lower bound is 4
+upper bound is 8
+12-13 v: sppffmqsrqvvvtqnwc
+lower bound is 12
+upper bound is 13
+3-4 d: dcdg
+lower bound is 3
+upper bound is 4
+4-7 t: thfsjtzbkx
+lower bound is 4
+upper bound is 7
+2-9 f: fmffffffffl
+lower bound is 2
+upper bound is 9
+3-4 l: cgrlx
+lower bound is 3
+upper bound is 4
+10-18 v: dxttvtrpvrhvbdnnvvvv
+lower bound is 10
+upper bound is 18
+10-12 m: mmmpmmmmmdmbmmmmm
+lower bound is 10
+upper bound is 12
+2-4 m: mmmm
+lower bound is 2
+upper bound is 4
+5-8 j: jjrjjgjcsjjnj
+lower bound is 5
+upper bound is 8
+6-8 k: kkkzkkkkk
+lower bound is 6
+upper bound is 8
+4-16 n: nnnwnnnnnnnnnnncn
+lower bound is 4
+upper bound is 16
+8-9 m: fmzmjdfmm
+lower bound is 8
+upper bound is 9
+7-8 n: jnhsntvr
+lower bound is 7
+upper bound is 8
+13-16 z: bzdzzzzjmzzzzqbn
+lower bound is 13
+upper bound is 16
+2-11 j: xjlbpjmtvrm
+lower bound is 2
+upper bound is 11
+5-7 l: plzllksrddbgnl
+lower bound is 5
+upper bound is 7
+2-7 v: jhvqdvvpvvtkvkjzjv
+lower bound is 2
+upper bound is 7
+1-6 b: bbbbbpbbbb
+lower bound is 1
+upper bound is 6
+2-6 p: lpqprw
+lower bound is 2
+upper bound is 6
+1-8 t: lttttttgt
+lower bound is 1
+upper bound is 8
+6-9 p: pppppgppppp
+lower bound is 6
+upper bound is 9
+4-5 w: wfwwgw
+lower bound is 4
+upper bound is 5
+7-9 g: gqfgqgggg
+lower bound is 7
+upper bound is 9
+12-15 p: ppppppppppfjpprp
+lower bound is 12
+upper bound is 15
+13-15 x: xxxxxxxxxxxxxxx
+lower bound is 13
+upper bound is 15
+3-5 v: vvvvlvvvv
+lower bound is 3
+upper bound is 5
+3-9 s: qqwgplpmsnsvjkwb
+lower bound is 3
+upper bound is 9
+1-2 j: jxjjjjd
+lower bound is 1
+upper bound is 2
+8-13 b: bbgbbbbjbbbbbbbb
+lower bound is 8
+upper bound is 13
+8-15 d: qsrqddvpntdwdcd
+lower bound is 8
+upper bound is 15
+5-8 c: cwccccccfccqc
+lower bound is 5
+upper bound is 8
+9-15 c: dslmxlccctvqzjngrzs
+lower bound is 9
+upper bound is 15
+13-14 z: zzzzdzzxzzvzzdq
+lower bound is 13
+upper bound is 14
+4-5 k: kkkkl
+lower bound is 4
+upper bound is 5
+16-17 l: plbljsndxzdflcslpxw
+lower bound is 16
+upper bound is 17
+2-13 s: ssssssssssssxs
+lower bound is 2
+upper bound is 13
+2-14 m: vmfvmcmmtmmqmshnkn
+lower bound is 2
+upper bound is 14
+1-5 m: mmmmkmm
+lower bound is 1
+upper bound is 5
+1-9 s: sqpsnfssjsssssss
+lower bound is 1
+upper bound is 9
+8-9 l: llllglllrl
+lower bound is 8
+upper bound is 9
+7-12 x: chbxgzxjxbpwkfxvp
+lower bound is 7
+upper bound is 12
+17-19 l: llkcqbhlflqlllmxtlr
+lower bound is 17
+upper bound is 19
+19-20 c: vbccpwnjcctzcccqrzbq
+lower bound is 19
+upper bound is 20
+12-20 g: ggdgfggrdgjbgnlggffg
+lower bound is 12
+upper bound is 20
+3-4 q: jqqsq
+lower bound is 3
+upper bound is 4
+4-6 m: ldnmmsm
+lower bound is 4
+upper bound is 6
+13-15 n: bskjrngjbmnhlbtbbt
+lower bound is 13
+upper bound is 15
+16-17 n: nnnnnnnnnnnnnnnnn
+lower bound is 16
+upper bound is 17
+2-10 c: bcxxqppbfccq
+lower bound is 2
+upper bound is 10
+2-4 t: xtdvht
+lower bound is 2
+upper bound is 4
+13-14 c: ccczvcvpccckcc
+lower bound is 13
+upper bound is 14
+6-11 l: gbblllnlldlc
+lower bound is 6
+upper bound is 11
+4-8 z: zzzzzmzvzz
+lower bound is 4
+upper bound is 8
+5-8 m: mmghmcwm
+lower bound is 5
+upper bound is 8
+6-8 f: dwzfdfftm
+lower bound is 6
+upper bound is 8
+2-6 w: xwjhnjnwk
+lower bound is 2
+upper bound is 6
+5-8 l: lhsqllvl
+lower bound is 5
+upper bound is 8
+1-8 q: qpdqmfcgdhnmtjj
+lower bound is 1
+upper bound is 8
+10-14 x: xsxxrpxxnxwhch
+lower bound is 10
+upper bound is 14
+2-5 l: lqlllllfc
+lower bound is 2
+upper bound is 5
+5-14 c: cjtchccxccccjccmdc
+lower bound is 5
+upper bound is 14
+6-10 x: zxcfxtxlxk
+lower bound is 6
+upper bound is 10
+7-13 k: qwrnzqbbqkgfk
+lower bound is 7
+upper bound is 13
+9-13 f: frfrfbffrfffn
+lower bound is 9
+upper bound is 13
+11-15 z: bfjkzhkmngtwdvqx
+lower bound is 11
+upper bound is 15
+18-19 v: ksssrwzjnwjnjxzdqwk
+lower bound is 18
+upper bound is 19
+10-13 s: ssssssssstspsssss
+lower bound is 10
+upper bound is 13
+1-2 w: wwwwt
+lower bound is 1
+upper bound is 2
+2-5 m: tmpmtpxwwcmmkmpxzwc
+lower bound is 2
+upper bound is 5
+6-7 s: tslshxs
+lower bound is 6
+upper bound is 7
+8-12 x: xxxxxxxgxlxlxx
+lower bound is 8
+upper bound is 12
+2-5 c: jcccgcdcccccccccccx
+lower bound is 2
+upper bound is 5
+11-13 n: vsxhnkckksnfk
+lower bound is 11
+upper bound is 13
+4-16 n: fhknznjfvxbpcrtk
+lower bound is 4
+upper bound is 16
+9-13 j: jjjjjjjjjjjjf
+lower bound is 9
+upper bound is 13
+10-16 p: pppppfppptpppppppp
+lower bound is 10
+upper bound is 16
+4-15 m: mmmrmmmmmmmmmwmmm
+lower bound is 4
+upper bound is 15
+2-3 m: gmvmmm
+lower bound is 2
+upper bound is 3
+5-9 l: dlclrltlgw
+lower bound is 5
+upper bound is 9
+2-5 g: fgtlg
+lower bound is 2
+upper bound is 5
+6-9 q: qqqqqrqqqq
+lower bound is 6
+upper bound is 9
+5-12 w: bdlmwzlmfdmhg
+lower bound is 5
+upper bound is 12
+5-14 l: lmlmnrzlglflll
+lower bound is 5
+upper bound is 14
+17-20 k: wbbbcqlwlvphdsqckwbm
+lower bound is 17
+upper bound is 20
+7-8 l: jtjlqxql
+lower bound is 7
+upper bound is 8
+1-14 l: lllllxlllplllflllll
+lower bound is 1
+upper bound is 14
+6-10 d: dddddcdddk
+lower bound is 6
+upper bound is 10
+9-11 m: mmmmmmmmmmhmtmmmm
+lower bound is 9
+upper bound is 11
+7-9 z: zzczzzzzzjzfz
+lower bound is 7
+upper bound is 9
+2-3 j: tgjkxpl
+lower bound is 2
+upper bound is 3
+13-15 f: ffffffffffffffff
+lower bound is 13
+upper bound is 15
+4-5 r: rrrrrr
+lower bound is 4
+upper bound is 5
+6-11 l: lllllllllllll
+lower bound is 6
+upper bound is 11
+10-15 f: ffffffffffffffff
+lower bound is 10
+upper bound is 15
+8-9 l: blszlljll
+lower bound is 8
+upper bound is 9
+5-7 h: hrhdnhmhhhnx
+lower bound is 5
+upper bound is 7
+12-13 f: hfffbkffnfffflffffff
+lower bound is 12
+upper bound is 13
+1-6 j: jjljjjjjjdjfjhq
+lower bound is 1
+upper bound is 6
+11-12 l: llllllllllll
+lower bound is 11
+upper bound is 12
+19-20 h: hwqhspckdppznzwnmxhh
+lower bound is 19
+upper bound is 20
+8-9 m: pkccwcgjpcxnlower bound is 8
+upper bound is 9
